@@ -1,6 +1,4 @@
-Mobile Automation
 Projeto de automação de testes mobile utilizando WebdriverIO, Appium e Cucumber.
-
 Tecnologias utilizadas
 WebdriverIO
 Appium
@@ -8,6 +6,7 @@ Cucumber (BDD)
 Node.js
 Allure Report
 GitHub Actions
+
 📂 Estrutura do projeto
 features/ → cenários de teste em BDD
 pages/ → Page Objects da aplicação
