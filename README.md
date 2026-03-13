@@ -1,4 +1,3 @@
-Mobile Automation
 Projeto de automação de testes mobile utilizando WebdriverIO, Appium e Cucumber.
 
 Tecnologias utilizadas
