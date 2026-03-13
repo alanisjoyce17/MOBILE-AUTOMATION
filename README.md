@@ -26,3 +26,4 @@ npx wdio run wdio.conf.js
 👩‍💻 Autora
 Alanis Joyce
 QA Analyst focada em automação de testes
+
